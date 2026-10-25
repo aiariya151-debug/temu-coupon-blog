@@ -1,0 +1,9 @@
+
+{
+  "$schema": "https://schema.в.cloudflare.com/wrangler/config-schema.json",
+  "name": "temu-coupon-blog",
+  "compatibility_date": "2026-10-25",
+  "assets": {
+    "directory": "."
+  }
+}
